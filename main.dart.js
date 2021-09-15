@@ -30679,7 +30679,7 @@ if(p<q){k=j.mo(p)
 if(s.$2(a,k)>0){C.b.m(j.b,b,k)
 b=p}}C.b.m(j.b,b,a)}}
 F.xL.prototype={
-U(a,b){return new S.po(C.BL,"Flutter Demo",X.a3n(null,C.mI),null)}}
+U(a,b){return new S.po(C.BL,"Flutter Demo web",X.a3n(null,C.mI),null)}}
 F.pB.prototype={
 b0(){return new F.tk(C.o)}}
 F.tk.prototype={
